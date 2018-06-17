@@ -1,0 +1,138 @@
+Apps	3094	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\mspaint.exe	name=*|Paint	gscore=3094	lscore=3094
+Apps	7436	{6D809377-6AF0-444B-8957-A3773F02200E}\\Windows Defender\\MSASCui.exe	name=*|Windows Defender	gscore=7436	lscore=7436
+Apps	5192	{6D809377-6AF0-444B-8957-A3773F02200E}\\Windows NT\\Accessories\\wordpad.exe	name=*|WordPad	gscore=5192	lscore=5192
+Apps	8079	{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\\odbcad32.exe	name=*|ODBC Data Sources (32-bit)	gscore=8079	lscore=8079
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\Oracle\\VirtualBox\\VirtualBox.chm	name=*|User manual (CHM, English)	gscore=64000	lscore=64000
+Apps	9816	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\ONENOTE.EXE	name=*|Microsoft OneNote 2010	gscore=9816	lscore=9816
+Apps	6553	microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar	name=*|Calendar	gscore=6553	lscore=6553
+Apps	4690	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe	name=*|Acrobat Reader DC	gscore=7381	lscore=2000
+Apps	64000	http://www.pdfzilla.com/	name=*|PDFZilla on the Web	gscore=64000	lscore=64000
+Apps	6368	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\msinfo32.exe	name=*|System Information	gscore=6368	lscore=6368
+Apps	64000	http://java.com/help	name=*|Get Help	gscore=64000	lscore=64000
+Apps	8866	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\quickassist.exe	name=*|Quick Assist	gscore=8866	lscore=8866
+Apps	4949	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\EXCEL.EXE	name=*|Microsoft Excel 2010	gscore=5898	lscore=4000
+Apps	6165	Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp	name=*|Xbox	gscore=6165	lscore=6165
+Apps	7581	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\printmanagement.msc	name=*|Print Management	gscore=7581	lscore=7581
+Apps	4631	Microsoft.SkypeApp_kzf8qxf38zg5c!App	name=*|Skype	gscore=4262	lscore=5000
+Apps	8881	Microsoft.BingNews_8wekyb3d8bbwe!AppexNews	name=*|News	gscore=8881	lscore=8881
+Apps	10816	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\xpsrchvw.exe	name=*|XPS Viewer	gscore=10816	lscore=10816
+Apps	6428	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\dfrgui.exe	name=*|Defragment and Optimize Drives	gscore=6428	lscore=6428
+Apps	6860	Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim	name=*|OneNote	gscore=6860	lscore=6860
+Apps	64000	Chromium.Q3EMF44IJAGHN4MIBJJJ6IITH4	name=*|Chromium	gscore=64000	lscore=64000
+Apps	64000	https://clipgrab.org	name=*|ClipGrab on the Web	gscore=64000	lscore=64000
+Apps	3760	Microsoft.Windows.RemoteDesktop	name=*|Remote Desktop Connection	gscore=3760	lscore=3760
+Apps	4591	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\services.msc	name=*|Services	gscore=5182	lscore=4000
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\YouTube Downloader\\YouTubeDownloader.exe	name=*|YouTube Downloader	gscore=64000	lscore=64000
+Apps	33000	C:\\Users\\DELL\\eclipse\\java-oxygen\\eclipse\\eclipse.exe	name=*|Eclipse Java Oxygen	gscore=64000	lscore=2000
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Free PDF Reader\\unins000.exe	name=*|Uninstall Free PDF Reader	gscore=64000	lscore=64000
+Apps	5768	{6D809377-6AF0-444B-8957-A3773F02200E}\\VideoLAN\\VLC\\vlc.exe	name=*|VLC media player	gscore=9536	lscore=2000
+Apps	8722	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\MSPUB.EXE	name=*|Microsoft Publisher 2010	gscore=8722	lscore=8722
+Apps	3389	Microsoft.InternetExplorer.Default	name=*|Internet Explorer	gscore=3389	lscore=3389
+Apps	5704	Microsoft.Windows.Photos_8wekyb3d8bbwe!App	name=*|Photos	gscore=5704	lscore=5704
+Apps	9870	Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App	name=*|Feedback Hub	gscore=9870	lscore=9870
+Apps	10172	{6D809377-6AF0-444B-8957-A3773F02200E}\\Common Files\\Microsoft Shared\\Ink\\mip.exe	name=*|Math Input Panel	gscore=10172	lscore=10172
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Free PDF to Word Doc Converter\\help.url	name=*|Free PDF to Word Doc Converter Online Help	gscore=64000	lscore=64000
+Apps	3390	Microsoft.Windows.ControlPanel	name=*|Control Panel	gscore=2781	lscore=4000
+Apps	6323	Microsoft.SkyDrive.Desktop	name=*|OneDrive	gscore=6323	lscore=6323
+Apps	9241	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\narrator.exe	name=*|Narrator	gscore=9241	lscore=9241
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Free PDF to Word Doc Converter\\pdf2word.exe	name=*|Free PDF to Word Doc Converter	gscore=64000	lscore=64000
+Apps	7507	Microsoft.BingWeather_8wekyb3d8bbwe!App	name=*|Weather	gscore=7507	lscore=7507
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Free PDF Reader\\FreePDFReader.exe	name=*|Free PDF Reader	gscore=64000	lscore=64000
+Apps	11788	xb'BV5!!!!!!!!!MKKSkWxpFiles<	name=*|Microsoft Office 2010 Upload Center	gscore=11788	lscore=11788
+Apps	9661	Microsoft.MinecraftUWP_8wekyb3d8bbwe!App	name=*|Minecraft	gscore=9661	lscore=9661
+Apps	10342	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\ClipGrab\\ClipGrab.exe	name=*|ClipGrab	gscore=10342	lscore=10342
+Apps	64000	xb'BV5!!!!!!!!!MKKSkOfficeDigitalSFiles<	name=*|Digital Certificate for VBA Projects	gscore=64000	lscore=64000
+Apps	11674	Windows.ContactSupport_cw5n1h2txyewy!App	name=*|Contact Support	gscore=11674	lscore=11674
+Apps	10495	Microsoft.OneConnect_8wekyb3d8bbwe!App	name=*|Paid Wi-Fi & Cellular	gscore=10495	lscore=10495
+Apps	64000	Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}	name=*|Git CMD	gscore=64000	lscore=64000
+Apps	8800	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\odbcad32.exe	name=*|ODBC Data Sources (64-bit)	gscore=8800	lscore=8800
+Apps	64000	Microsoft.AutoGenerated.{8AA47365-B2B3-1961-69EB-F866E376B12F}	name=*|Performance Monitor	gscore=64000	lscore=64000
+Apps	4807	Microsoft.Windows.Explorer	name=*|File Explorer	gscore=5615	lscore=4000
+Apps	7535	king.com.CandyCrushSodaSaga_kgqvnymyfvs32!App	name=*|Candy Crush Soda Saga	gscore=7535	lscore=7535
+Apps	10344	Microsoft.Getstarted_8wekyb3d8bbwe!App	name=*|Tips	gscore=10344	lscore=10344
+Apps	5750	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\OUTLOOK.EXE	name=*|Microsoft Outlook 2010	gscore=6501	lscore=5000
+Apps	7527	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\magnify.exe	name=*|Magnifier	gscore=7527	lscore=7527
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\VideoLAN\\VLC\\VideoLAN Website.url	name=*|VideoLAN Website	gscore=64000	lscore=64000
+Apps	64000	Microsoft.AutoGenerated.{923DD477-5846-686B-A659-0FCCD73851A8}	name=*|Task Manager	gscore=64000	lscore=64000
+Apps	64000	http://docs.oracle.com/javase/8/docs	name=*|Reference Documentation	gscore=64000	lscore=64000
+Apps	4891	E7CF176E110C211B	name=*|Firefox	gscore=6782	lscore=3000
+Apps	9403	89006A2E.AutodeskSketchBook_tf1gferkr813w!App	name=*|SketchBook	gscore=9403	lscore=9403
+Apps	5187	Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App	name=*|Sticky Notes	gscore=5187	lscore=5187
+Apps	4719	Microsoft.Windows.Shell.RunDialog	name=*|Run	gscore=4719	lscore=4719
+Apps	64000	http://java.com/	name=*|Visit Java.com	gscore=64000	lscore=64000
+Apps	4658	Microsoft.WindowsCamera_8wekyb3d8bbwe!App	name=*|Camera	gscore=4658	lscore=4658
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Free PDF to Word Doc Converter\\unins000.exe	name=*|Uninstall	gscore=64000	lscore=64000
+Apps	9557	{6D809377-6AF0-444B-8957-A3773F02200E}\\Git\\cmd\\git-gui.exe	name=*|Git GUI	gscore=9557	lscore=9557
+Apps	8648	Microsoft.PPIProjection_cw5n1h2txyewy!Microsoft.PPIProjection	name=*|Connect	gscore=8648	lscore=8648
+Apps	12761	xb'BV5!!!!!!!!!MKKSkSetLanguageFiles<	name=*|Microsoft Office 2010 Language Preferences	gscore=12761	lscore=12761
+Apps	8714	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\MdSched.exe	name=*|Windows Memory Diagnostic	gscore=8714	lscore=8714
+Apps	64000	Microsoft.AutoGenerated.{8ABD94FB-E7D6-84A6-A997-C918EDDE0AE5}	name=*|Computer Management	gscore=64000	lscore=64000
+Apps	9091	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\MSACCESS.EXE	name=*|Microsoft Access 2010	gscore=9091	lscore=9091
+Apps	64000	Microsoft.AutoGenerated.{BB044BFD-25B7-2FAA-22A8-6371A93E0456}	name=*|Event Viewer	gscore=64000	lscore=64000
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\Java\\jre1.8.0_141\\bin\\javacpl.exe	name=*|Configure Java	gscore=64000	lscore=64000
+Apps	7074	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WF.msc	name=*|Windows Firewall with Advanced Security	gscore=7074	lscore=7074
+Apps	64000	OperaSoftware.OperaWebBrowser.1529028463	name=*|Opera Browser	gscore=64000	lscore=64000
+Apps	6231	Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App	name=*|Voice Recorder	gscore=6231	lscore=6231
+Apps	8393	avast! Antivirus	name=*|Avast Free Antivirus	gscore=8393	lscore=8393
+Apps	64000	Microsoft.AutoGenerated.{4FECF46A-20C8-A26F-20D9-7C8531C46577}	name=*|About Java	gscore=64000	lscore=64000
+Apps	5617	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\cleanmgr.exe	name=*|Disk Cleanup	gscore=5617	lscore=5617
+Apps	10539	{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe	name=*|Windows PowerShell ISE (x86)	gscore=10539	lscore=10539
+Apps	8653	Microsoft.Windows.PCSettings.DefaultApps	name=*|Default Programs	gscore=8653	lscore=8653
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\VideoLAN\\VLC\\Documentation.url	name=*|Documentation	gscore=64000	lscore=64000
+Apps	5616	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WFS.exe	name=*|Windows Fax and Scan	gscore=5616	lscore=5616
+Apps	64000	http://youtubedownload.altervista.org/help.htm	name=*|YouTube Downloader Help	gscore=64000	lscore=64000
+Apps	6004	Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App	name=*|Microsoft Solitaire Collection	gscore=6004	lscore=6004
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\Java\\jdk1.8.0_141\\bin\\jmc.exe	name=*|Java Mission Control	gscore=64000	lscore=64000
+Apps	6024	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\msconfig.exe	name=*|System Configuration	gscore=6024	lscore=6024
+Apps	2437	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\SnippingTool.exe	name=*|Snipping Tool	gscore=2437	lscore=2437
+Apps	9606	Microsoft.Windows.PCSettings.Devices	name=*|Devices	gscore=9606	lscore=9606
+Apps	5347	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\POWERPNT.EXE	name=*|Microsoft PowerPoint 2010	gscore=6694	lscore=4000
+Apps	7890	Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo	name=*|Movies & TV	gscore=7890	lscore=7890
+Apps	8608	Microsoft.3DBuilder_8wekyb3d8bbwe!App	name=*|3D Builder	gscore=8608	lscore=8608
+Apps	4459	Microsoft.Windows.Computer	name=*|This PC	gscore=3919	lscore=5000
+Apps	9701	A278AB0D.MarchofEmpires_h6adky7gbf63m!App	name=*|March of Empires: War of Lords	gscore=9701	lscore=9701
+Apps	6190	Microsoft.WindowsAlarms_8wekyb3d8bbwe!App	name=*|Alarms & Clock	gscore=6190	lscore=6190
+Apps	64000	InfoPath.Filler.3	name=*|Microsoft InfoPath Filler 2010	gscore=64000	lscore=64000
+Apps	64000	Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI	name=*|Cortana	gscore=64000	lscore=64000
+Apps	2674	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\notepad.exe	name=*|Notepad	gscore=3349	lscore=2000
+Apps	64000	Microsoft.AutoGenerated.{C1C6F8AC-40A3-0F5C-146F-65A9DC70BBB4}	name=*|Task Scheduler	gscore=64000	lscore=64000
+Apps	9356	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\comexp.msc	name=*|Component Services	gscore=9356	lscore=9356
+Apps	64000	C:\\Users\\DELL\\AppData\\Local\\{B512834E-91BA-EFF6-FC22-CA1ED84A3686}\\HowToRemove\\HowToRemove.html	name=*|HowToRemove	gscore=64000	lscore=64000
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\Oracle\\VirtualBox\\doc\\UserManual.pdf	name=*|User manual (PDF, English)	gscore=64000	lscore=64000
+Apps	7829	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe	name=*|Windows PowerShell ISE	gscore=7829	lscore=7829
+Apps	7730	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\charmap.exe	name=*|Character Map	gscore=7730	lscore=7730
+Apps	9721	king.com.BubbleWitch3Saga_kgqvnymyfvs32!App	name=*|Bubble Witch 3 Saga	gscore=9721	lscore=9721
+Apps	64000	InfoPath.Designer.3	name=*|Microsoft InfoPath Designer 2010	gscore=64000	lscore=64000
+Apps	3708	Microsoft.WindowsCalculator_8wekyb3d8bbwe!App	name=*|Calculator	gscore=2416	lscore=5000
+Apps	6321	Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic	name=*|Groove Music	gscore=6642	lscore=6000
+Apps	64000	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\MSTORE.EXE	name=*|Microsoft Clip Organizer	gscore=64000	lscore=64000
+Apps	11634	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\OIS.EXE	name=*|Microsoft Office Picture Manager	gscore=11634	lscore=11634
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\Oracle\\VirtualBox\\License_en_US.rtf	name=*|License (English)	gscore=64000	lscore=64000
+Apps	9783	{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\\WindowsPowerShell\\v1.0\\powershell.exe	name=*|Windows PowerShell (x86)	gscore=9783	lscore=9783
+Apps	8294	Microsoft.WindowsMaps_8wekyb3d8bbwe!App	name=*|Maps	gscore=8294	lscore=8294
+Apps	9615	Microsoft.Messaging_8wekyb3d8bbwe!x27e26f40ye031y48a6yb130yd1f20388991ax	name=*|Messaging	gscore=9615	lscore=9615
+Apps	3606	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\cmd.exe	name=*|Command Prompt	gscore=3213	lscore=4000
+Apps	64000	Microsoft.AutoGenerated.{30476B76-47D2-CEB5-552F-D79EA7B6A3CC}	name=*|Check For Updates	gscore=64000	lscore=64000
+Apps	2681	Chrome	name=*|Google Chrome	gscore=3362	lscore=2000
+Apps	64000	Microsoft.AutoGenerated.{30BD9A02-CB9A-93FD-A859-09C8803F2346}	name=*|VLC media player skinned	gscore=64000	lscore=64000
+Apps	64000	http://youtubedownload.altervista.org/	name=*|Web site	gscore=64000	lscore=64000
+Apps	6024	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\WindowsPowerShell\\v1.0\\powershell.exe	name=*|Windows PowerShell	gscore=6024	lscore=6024
+Apps	8827	Microsoft.People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x	name=*|People	gscore=8827	lscore=8827
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\BOINC\\charityengine.exe	name=*|Charity Engine	gscore=64000	lscore=64000
+Apps	5986	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\osk.exe	name=*|On-Screen Keyboard	gscore=5986	lscore=5986
+Apps	34000	Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}	name=*|Git Bash	gscore=64000	lscore=4000
+Apps	11802	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\GROOVE.EXE	name=*|Microsoft SharePoint Workspace 2010	gscore=11802	lscore=11802
+Apps	10185	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\iscsicpl.exe	name=*|iSCSI Initiator	gscore=10185	lscore=10185
+Apps	5300	windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel	name=*|Settings	gscore=4600	lscore=6000
+Apps	64000	Microsoft.AutoGenerated.{51325390-AE6A-68FC-A315-0950CC83A166}	name=*|VLC media player - reset preferences and cache files	gscore=64000	lscore=64000
+Apps	5378	Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge	name=*|Microsoft Edge	gscore=4757	lscore=6000
+Apps	64000	Microsoft.AutoGenerated.{C804BBA7-FA5F-CBF7-8B55-2096E5F972CB}	name=*|Resource Monitor	gscore=64000	lscore=64000
+Apps	5450	microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail	name=*|Mail	gscore=5450	lscore=5450
+Apps	5858	Microsoft.Windows.MediaPlayer32	name=*|Windows Media Player	gscore=5858	lscore=5858
+Apps	9058	{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\psr.exe	name=*|Steps Recorder	gscore=9058	lscore=9058
+Apps	64000	{6D809377-6AF0-444B-8957-A3773F02200E}\\VideoLAN\\VLC\\NEWS.txt	name=*|Release Notes	gscore=64000	lscore=64000
+Apps	64000	Microsoft.AutoGenerated.{DAA168DE-4306-C8BC-8C11-B596240BDDED}	name=*|Windows Speech Recognition	gscore=64000	lscore=64000
+Apps	64000	Microsoft.AutoGenerated.{BD3F924E-55FB-A1BA-9DE6-B50F9F2460AC}	name=*|Local Security Policy	gscore=64000	lscore=64000
+Apps	5845	Microsoft.WindowsStore_8wekyb3d8bbwe!App	name=*|Microsoft Store	gscore=5691	lscore=6000
+Apps	2528	{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\Microsoft Office\\Office14\\WINWORD.EXE	name=*|Microsoft Word 2010	gscore=5056	lscore=0
+Apps	7168	{6D809377-6AF0-444B-8957-A3773F02200E}\\Oracle\\VirtualBox\\VirtualBox.exe	name=*|Oracle VM VirtualBox	gscore=7168	lscore=7168

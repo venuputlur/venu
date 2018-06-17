@@ -1,0 +1,4 @@
+06/17/2018 16:59:54  0       :      Info  Activity ID: 988147f0-2b11-4111-9554-26ea7f6f389f
+06/17/2018 16:59:54  0       :      Info  App Version: 1.1712.1141.0
+06/17/2018 16:59:54  0       :      Info  Starting diagtrack client background task on timer
+06/17/2018 16:59:54  0       :      Info  Scenario data found: False
